@@ -1,0 +1,7 @@
+date,holiday_name,department,access_level,notes
+2026-01-01,New Year Day,HR,public,Bank holiday
+2026-01-26,Republic Day,HR,public,Bank holiday
+2026-03-20,Spring Festival Day,HR,staff,Optional holiday
+2026-08-15,Independence Day,HR,public,Bank holiday
+2026-10-20,Festival Break,HR,staff,Bank holiday
+2026-12-25,Year End Holiday,HR,public,Bank holiday
